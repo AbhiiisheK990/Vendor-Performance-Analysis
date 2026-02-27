@@ -12,30 +12,20 @@ The outputs include:
 - A Power BI dashboard file (`Vendor_Analysis_Dashboard.pbix`) to visualize key metrics
 
 ## 🗂️ Repository Structure
-
+```
 Vendor-Performance-Analysis/
 ├── Data_Ingestion_sqlite.ipynb # Notebook to ingest raw data into SQLite
-
 ├── EDA.ipynb # Notebook for exploratory data analysis
-
 ├── Ingestion_DB.ipynb # Notebook showing ingestion process
-
 ├── Ingestion_DB.py # Python script for ingestion into database
-
 ├── getvendorsumscript.py # Script to generate vendor summary outputs
-
 ├── vendor_sales_summary.csv # Generated summary output file
-
 ├── Vendor_Performance_Analysis.ipynb # Main analysis notebook
-
 ├── Vendor_Analysis_Dashboard.pbix # Power BI dashboard file
-
 ├── logging.log # Log output from database ingestion or scripts
-
 ├── LICENSE # MIT License
-
 └── README.md # This documentation
-
+```
 
 ## 🛠️ Tools & Technologies
 
