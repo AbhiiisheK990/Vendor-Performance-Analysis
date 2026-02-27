@@ -1,0 +1,1398 @@
+2026-02-23 20:46:20,875 - INFO - Starting data ingestion from: C:\Users\abhim\Downloads\data_vendor_project\data
+2026-02-23 20:46:20,876 - DEBUG - Processing file: begin_inventory.csv
+2026-02-23 20:46:21,241 - INFO - Loaded data from begin_inventory.csv successfully. Shape: (206529, 9)
+2026-02-23 20:46:33,657 - INFO - Successfully ingested 206529 rows into begin_inventory
+2026-02-23 20:46:33,657 - INFO - Data from begin_inventory.csv ingested successfully.
+2026-02-23 20:46:33,658 - DEBUG - Processing file: end_inventory.csv
+2026-02-23 20:46:33,987 - INFO - Loaded data from end_inventory.csv successfully. Shape: (224489, 9)
+2026-02-23 20:46:46,165 - INFO - Successfully ingested 224489 rows into end_inventory
+2026-02-23 20:46:46,165 - INFO - Data from end_inventory.csv ingested successfully.
+2026-02-23 20:46:46,166 - DEBUG - Processing file: purchases.csv
+2026-02-23 20:46:52,512 - INFO - Loaded data from purchases.csv successfully. Shape: (2372474, 16)
+2026-02-23 20:49:22,026 - ERROR - Error ingesting purchases: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+2026-02-23 20:49:22,038 - DEBUG - Processing file: purchase_prices.csv
+2026-02-23 20:49:22,227 - INFO - Loaded data from purchase_prices.csv successfully. Shape: (12261, 9)
+2026-02-23 20:49:33,086 - INFO - Successfully ingested 12261 rows into purchase_prices
+2026-02-23 20:49:33,086 - INFO - Data from purchase_prices.csv ingested successfully.
+2026-02-23 20:49:33,087 - DEBUG - Processing file: sales.csv
+2026-02-23 20:50:04,131 - INFO - Loaded data from sales.csv successfully. Shape: (12825363, 14)
+2026-02-23 20:57:50,034 - INFO - Starting data ingestion from: C:\Users\abhim\Downloads\data_vendor_project\data
+2026-02-23 20:57:50,035 - DEBUG - Processing file: begin_inventory.csv
+2026-02-23 20:57:50,661 - INFO - Loaded data from begin_inventory.csv successfully. Shape: (206529, 9)
+2026-02-23 20:58:03,188 - INFO - Successfully ingested 206529 rows into begin_inventory
+2026-02-23 20:58:03,189 - INFO - Data from begin_inventory.csv ingested successfully.
+2026-02-23 20:58:03,189 - DEBUG - Processing file: end_inventory.csv
+2026-02-23 20:58:03,640 - INFO - Loaded data from end_inventory.csv successfully. Shape: (224489, 9)
+2026-02-23 20:58:17,556 - INFO - Successfully ingested 224489 rows into end_inventory
+2026-02-23 20:58:17,557 - INFO - Data from end_inventory.csv ingested successfully.
+2026-02-23 20:58:17,557 - DEBUG - Processing file: purchases.csv
+2026-02-23 20:58:23,086 - INFO - Loaded data from purchases.csv successfully. Shape: (2372474, 16)
+2026-02-23 21:01:00,021 - ERROR - Error ingesting purchases: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+2026-02-23 21:01:00,040 - DEBUG - Processing file: purchase_prices.csv
+2026-02-23 21:01:00,369 - INFO - Loaded data from purchase_prices.csv successfully. Shape: (12261, 9)
+2026-02-23 21:01:16,324 - INFO - Successfully ingested 12261 rows into purchase_prices
+2026-02-23 21:01:16,324 - INFO - Data from purchase_prices.csv ingested successfully.
+2026-02-23 21:01:16,324 - DEBUG - Processing file: sales.csv
+2026-02-23 21:01:43,040 - INFO - Loaded data from sales.csv successfully. Shape: (12825363, 14)
+2026-02-23 21:04:08,014 - ERROR - Error ingesting sales: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+2026-02-23 21:04:08,019 - DEBUG - Processing file: vendor_invoice.csv
+2026-02-23 21:04:08,309 - INFO - Loaded data from vendor_invoice.csv successfully. Shape: (5543, 10)
+2026-02-23 21:04:37,773 - INFO - Successfully ingested 5543 rows into vendor_invoice
+2026-02-23 21:04:37,773 - INFO - Data from vendor_invoice.csv ingested successfully.
+2026-02-23 21:04:37,773 - INFO - Data ingestion completed in 6.80 minutes. Success: 4, Errors: 2
+2026-02-23 21:04:54,178 - INFO - Starting data ingestion from: C:\Users\abhim\Downloads\data_vendor_project\data
+2026-02-23 21:04:54,179 - DEBUG - Processing file: begin_inventory.csv
+2026-02-23 21:04:54,649 - INFO - Loaded data from begin_inventory.csv successfully. Shape: (206529, 9)
+2026-02-23 21:05:09,930 - INFO - Successfully ingested 206529 rows into begin_inventory
+2026-02-23 21:05:10,025 - INFO - Data from begin_inventory.csv ingested successfully.
+2026-02-23 21:05:10,026 - DEBUG - Processing file: end_inventory.csv
+2026-02-23 21:05:10,894 - INFO - Loaded data from end_inventory.csv successfully. Shape: (224489, 9)
+2026-02-23 21:05:31,041 - INFO - Successfully ingested 224489 rows into end_inventory
+2026-02-23 21:05:31,164 - INFO - Data from end_inventory.csv ingested successfully.
+2026-02-23 21:05:31,165 - DEBUG - Processing file: purchases.csv
+2026-02-23 21:05:42,647 - INFO - Loaded data from purchases.csv successfully. Shape: (2372474, 16)
+2026-02-24 00:37:51,552 - INFO - Starting data ingestion from: C:\Users\abhim\Downloads\data_vendor_project\data
+2026-02-24 00:37:51,552 - DEBUG - Processing file: begin_inventory.csv
+2026-02-24 00:37:51,934 - INFO - Loaded data from begin_inventory.csv successfully. Shape: (206529, 9)
+2026-02-24 00:38:04,225 - INFO - Successfully ingested 206529 rows into begin_inventory
+2026-02-24 00:38:04,338 - INFO - Data from begin_inventory.csv ingested successfully.
+2026-02-24 00:38:04,338 - DEBUG - Processing file: end_inventory.csv
+2026-02-24 00:38:04,734 - INFO - Loaded data from end_inventory.csv successfully. Shape: (224489, 9)
+2026-02-24 00:38:18,796 - INFO - Successfully ingested 224489 rows into end_inventory
+2026-02-24 00:38:18,899 - INFO - Data from end_inventory.csv ingested successfully.
+2026-02-24 00:38:18,899 - DEBUG - Processing file: purchases.csv
+2026-02-24 00:38:26,631 - INFO - Loaded data from purchases.csv successfully. Shape: (2372474, 16)
+2026-02-24 00:40:41,009 - ERROR - Error ingesting purchases: (mysql.connector.errors.OperationalError) 2013 (HY000): Lost connection to MySQL server during query
+[SQL: INSERT INTO purchases (`InventoryId`, `Store`, `Brand`, `Description`, `Size`, `VendorNumber`, `VendorName`, `PONumber`, `PODate`, `ReceivingDate`, `InvoiceDate`, `PayDate`, `PurchasePrice`, `Quantity`, `Dollars`, `Classification`) VALUES (%(InventoryId)s, %(Store)s, %(Brand)s, %(Description)s, %(Size)s, %(VendorNumber)s, %(VendorName)s, %(PONumber)s, %(PODate)s, %(ReceivingDate)s, %(InvoiceDate)s, %(PayDate)s, %(PurchasePrice)s, %(Quantity)s, %(Dollars)s, %(Classification)s)]
+[parameters: [{'InventoryId': '69_MOUNTMEND_8412', 'Store': 69, 'Brand': 8412, 'Description': 'Tequila Ocho Plata Fresno', 'Size': '750mL', 'VendorNumber': 105, 'VendorName': 'ALTAMAR BRANDS LLC         ', 'PONumber': 8124, 'PODate': '2023-12-21', 'ReceivingDate': '2024-01-02', 'InvoiceDate': '2024-01-04', 'PayDate': '2024-02-16', 'PurchasePrice': 35.71, 'Quantity': 6, 'Dollars': 214.26, 'Classification': 1}, {'InventoryId': '30_CULCHETH_5255', 'Store': 30, 'Brand': 5255, 'Description': 'TGI Fridays Ultimte Mudslide', 'Size': '1.75L', 'VendorNumber': 4466, 'VendorName': 'AMERICAN VINTAGE BEVERAGE  ', 'PONumber': 8137, 'PODate': '2023-12-22', 'ReceivingDate': '2024-01-01', 'InvoiceDate': '2024-01-07', 'PayDate': '2024-02-21', 'PurchasePrice': 9.35, 'Quantity': 4, 'Dollars': 37.4, 'Classification': 1}, {'InventoryId': '34_PITMERDEN_5215', 'Store': 34, 'Brand': 5215, 'Description': 'TGI Fridays Long Island Iced', 'Size': '1.75L', 'VendorNumber': 4466, 'VendorName': 'AMERICAN VINTAGE BEVERAGE  ', 'PONumber': 8137, 'PODate': '2023-12-22', 'ReceivingDate': '2024-01-02', 'InvoiceDate': '2024-01-07', 'PayDate': '2024-02-21', 'PurchasePrice': 9.41, 'Quantity': 5, 'Dollars': 47.05, 'Classification': 1}, {'InventoryId': '1_HARDERSFIELD_5255', 'Store': 1, 'Brand': 5255, 'Description': 'TGI Fridays Ultimte Mudslide', 'Size': '1.75L', 'VendorNumber': 4466, 'VendorName': 'AMERICAN VINTAGE BEVERAGE  ', 'PONumber': 8137, 'PODate': '2023-12-22', 'ReceivingDate': '2024-01-01', 'InvoiceDate': '2024-01-07', 'PayDate': '2024-02-21', 'PurchasePrice': 9.35, 'Quantity': 6, 'Dollars': 56.1, 'Classification': 1}, {'InventoryId': '76_DONCASTER_2034', 'Store': 76, 'Brand': 2034, 'Description': 'Glendalough Double Barrel', 'Size': '750mL', 'VendorNumber': 388, 'VendorName': 'ATLANTIC IMPORTING COMPANY ', 'PONumber': 8169, 'PODate': '2023-12-24', 'ReceivingDate': '2024-01-02', 'InvoiceDate': '2024-01-09', 'PayDate': '2024-02-16', 'PurchasePrice': 21.32, 'Quantity': 5, 'Dollars': 106.6, 'Classification': 1}, {'InventoryId': '5_SUTTON_3348', 'Store': 5, 'Brand': 3348, 'Description': 'Bombay Sapphire Gin', 'Size': '1.75L', 'VendorNumber': 480, 'VendorName': 'BACARDI USA INC            ', 'PONumber': 8106, 'PODate': '2023-12-20', 'ReceivingDate': '2024-01-02', 'InvoiceDate': '2024-01-12', 'PayDate': '2024-02-05', 'PurchasePrice': 22.38, 'Quantity': 6, 'Dollars': 134.28, 'Classification': 1}, {'InventoryId': '1_HARDERSFIELD_8358', 'Store': 1, 'Brand': 8358, 'Description': 'Bacardi 151 Proof', 'Size': '750mL', 'VendorNumber': 480, 'VendorName': 'BACARDI USA INC            ', 'PONumber': 8106, 'PODate': '2023-12-20', 'ReceivingDate': '2024-01-01', 'InvoiceDate': '2024-01-12', 'PayDate': '2024-02-05', 'PurchasePrice': 14.49, 'Quantity': 12, 'Dollars': 173.88, 'Classification': 1}, {'InventoryId': '30_CULCHETH_4903', 'Store': 30, 'Brand': 4903, 'Description': 'Bacardi Superior Rum', 'Size': '200mL', 'VendorNumber': 480, 'VendorName': 'BACARDI USA INC            ', 'PONumber': 8106, 'PODate': '2023-12-20', 'ReceivingDate': '2024-01-01', 'InvoiceDate': '2024-01-12', 'PayDate': '2024-02-05', 'PurchasePrice': 2.87, 'Quantity': 48, 'Dollars': 137.76, 'Classification': 1}  ... displaying 10 of 2372474 total bound parameter sets ...  {'InventoryId': '69_MOUNTMEND_19557', 'Store': 69, 'Brand': 19557, 'Description': 'Zorvino Fragole Z Strawberry', 'Size': '750mL', 'VendorNumber': 90058, 'VendorName': 'ZORVINO VINEYARDS          ', 'PONumber': 13593, 'PODate': '2024-12-19', 'ReceivingDate': '2024-12-26', 'InvoiceDate': '2025-01-09', 'PayDate': '2025-02-06', 'PurchasePrice': 9.39, 'Quantity': 12, 'Dollars': 112.68, 'Classification': 2}, {'InventoryId': '55_DRY GULCH_22298', 'Store': 55, 'Brand': 22298, 'Description': 'Zorvino Vyds Sangiovese', 'Size': '750mL', 'VendorNumber': 90058, 'VendorName': 'ZORVINO VINEYARDS          ', 'PONumber': 13593, 'PODate': '2024-12-19', 'ReceivingDate': '2024-12-28', 'InvoiceDate': '2025-01-09', 'PayDate': '2025-02-06', 'PurchasePrice': 8.06, 'Quantity': 12, 'Dollars': 96.72, 'Classification': 2}]]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-02-24 00:40:41,024 - DEBUG - Processing file: purchase_prices.csv
+2026-02-24 00:40:41,209 - INFO - Loaded data from purchase_prices.csv successfully. Shape: (12261, 9)
+2026-02-24 00:40:51,856 - INFO - Successfully ingested 12261 rows into purchase_prices
+2026-02-24 00:40:51,865 - INFO - Data from purchase_prices.csv ingested successfully.
+2026-02-24 00:40:51,865 - DEBUG - Processing file: sales.csv
+2026-02-24 00:41:19,114 - INFO - Loaded data from sales.csv successfully. Shape: (12825363, 14)
+2026-02-24 01:02:30,102 - ERROR - Error processing sales.csv: 
+2026-02-24 01:02:30,123 - DEBUG - Processing file: vendor_invoice.csv
+2026-02-24 01:02:31,240 - ERROR - Error processing vendor_invoice.csv: Error tokenizing data. C error: out of memory
+2026-02-24 01:02:31,243 - INFO - Data ingestion completed in 24.66 minutes. Success: 3, Errors: 3
+2026-02-24 01:31:29,133 - INFO - Processing file: begin_inventory.csv with 206529 rows
+2026-02-24 01:31:42,449 - INFO - Successfully ingested 206529 rows into begin_inventory
+2026-02-24 01:31:43,057 - INFO - Processing file: end_inventory.csv with 224489 rows
+2026-02-24 01:31:55,587 - INFO - Successfully ingested 224489 rows into end_inventory
+2026-02-24 01:32:02,054 - INFO - Processing file: purchases.csv with 2372474 rows
+2026-02-24 01:41:17,582 - INFO - Processing file: begin_inventory.csv with 206529 rows
+2026-02-24 01:41:27,315 - INFO - Successfully ingested 206529 rows into begin_inventory
+2026-02-24 01:41:27,739 - INFO - Processing file: end_inventory.csv with 224489 rows
+2026-02-24 01:41:39,383 - INFO - Successfully ingested 224489 rows into end_inventory
+2026-02-24 01:41:47,554 - INFO - Processing file: purchases.csv with 2372474 rows
+2026-02-24 01:46:05,679 - ERROR - Failed to ingest purchases: (mysql.connector.errors.OperationalError) 2013 (HY000): Lost connection to MySQL server during query
+[SQL: INSERT INTO purchases (`InventoryId`, `Store`, `Brand`, `Description`, `Size`, `VendorNumber`, `VendorName`, `PONumber`, `PODate`, `ReceivingDate`, `InvoiceDate`, `PayDate`, `PurchasePrice`, `Quantity`, `Dollars`, `Classification`) VALUES (%(InventoryId)s, %(Store)s, %(Brand)s, %(Description)s, %(Size)s, %(VendorNumber)s, %(VendorName)s, %(PONumber)s, %(PODate)s, %(ReceivingDate)s, %(InvoiceDate)s, %(PayDate)s, %(PurchasePrice)s, %(Quantity)s, %(Dollars)s, %(Classification)s)]
+[parameters: [{'InventoryId': '69_MOUNTMEND_8412', 'Store': 69, 'Brand': 8412, 'Description': 'Tequila Ocho Plata Fresno', 'Size': '750mL', 'VendorNumber': 105, 'VendorName': 'ALTAMAR BRANDS LLC         ', 'PONumber': 8124, 'PODate': '2023-12-21', 'ReceivingDate': '2024-01-02', 'InvoiceDate': '2024-01-04', 'PayDate': '2024-02-16', 'PurchasePrice': 35.71, 'Quantity': 6, 'Dollars': 214.26, 'Classification': 1}, {'InventoryId': '30_CULCHETH_5255', 'Store': 30, 'Brand': 5255, 'Description': 'TGI Fridays Ultimte Mudslide', 'Size': '1.75L', 'VendorNumber': 4466, 'VendorName': 'AMERICAN VINTAGE BEVERAGE  ', 'PONumber': 8137, 'PODate': '2023-12-22', 'ReceivingDate': '2024-01-01', 'InvoiceDate': '2024-01-07', 'PayDate': '2024-02-21', 'PurchasePrice': 9.35, 'Quantity': 4, 'Dollars': 37.4, 'Classification': 1}, {'InventoryId': '34_PITMERDEN_5215', 'Store': 34, 'Brand': 5215, 'Description': 'TGI Fridays Long Island Iced', 'Size': '1.75L', 'VendorNumber': 4466, 'VendorName': 'AMERICAN VINTAGE BEVERAGE  ', 'PONumber': 8137, 'PODate': '2023-12-22', 'ReceivingDate': '2024-01-02', 'InvoiceDate': '2024-01-07', 'PayDate': '2024-02-21', 'PurchasePrice': 9.41, 'Quantity': 5, 'Dollars': 47.05, 'Classification': 1}, {'InventoryId': '1_HARDERSFIELD_5255', 'Store': 1, 'Brand': 5255, 'Description': 'TGI Fridays Ultimte Mudslide', 'Size': '1.75L', 'VendorNumber': 4466, 'VendorName': 'AMERICAN VINTAGE BEVERAGE  ', 'PONumber': 8137, 'PODate': '2023-12-22', 'ReceivingDate': '2024-01-01', 'InvoiceDate': '2024-01-07', 'PayDate': '2024-02-21', 'PurchasePrice': 9.35, 'Quantity': 6, 'Dollars': 56.1, 'Classification': 1}, {'InventoryId': '76_DONCASTER_2034', 'Store': 76, 'Brand': 2034, 'Description': 'Glendalough Double Barrel', 'Size': '750mL', 'VendorNumber': 388, 'VendorName': 'ATLANTIC IMPORTING COMPANY ', 'PONumber': 8169, 'PODate': '2023-12-24', 'ReceivingDate': '2024-01-02', 'InvoiceDate': '2024-01-09', 'PayDate': '2024-02-16', 'PurchasePrice': 21.32, 'Quantity': 5, 'Dollars': 106.6, 'Classification': 1}, {'InventoryId': '5_SUTTON_3348', 'Store': 5, 'Brand': 3348, 'Description': 'Bombay Sapphire Gin', 'Size': '1.75L', 'VendorNumber': 480, 'VendorName': 'BACARDI USA INC            ', 'PONumber': 8106, 'PODate': '2023-12-20', 'ReceivingDate': '2024-01-02', 'InvoiceDate': '2024-01-12', 'PayDate': '2024-02-05', 'PurchasePrice': 22.38, 'Quantity': 6, 'Dollars': 134.28, 'Classification': 1}, {'InventoryId': '1_HARDERSFIELD_8358', 'Store': 1, 'Brand': 8358, 'Description': 'Bacardi 151 Proof', 'Size': '750mL', 'VendorNumber': 480, 'VendorName': 'BACARDI USA INC            ', 'PONumber': 8106, 'PODate': '2023-12-20', 'ReceivingDate': '2024-01-01', 'InvoiceDate': '2024-01-12', 'PayDate': '2024-02-05', 'PurchasePrice': 14.49, 'Quantity': 12, 'Dollars': 173.88, 'Classification': 1}, {'InventoryId': '30_CULCHETH_4903', 'Store': 30, 'Brand': 4903, 'Description': 'Bacardi Superior Rum', 'Size': '200mL', 'VendorNumber': 480, 'VendorName': 'BACARDI USA INC            ', 'PONumber': 8106, 'PODate': '2023-12-20', 'ReceivingDate': '2024-01-01', 'InvoiceDate': '2024-01-12', 'PayDate': '2024-02-05', 'PurchasePrice': 2.87, 'Quantity': 48, 'Dollars': 137.76, 'Classification': 1}  ... displaying 10 of 2372474 total bound parameter sets ...  {'InventoryId': '69_MOUNTMEND_19557', 'Store': 69, 'Brand': 19557, 'Description': 'Zorvino Fragole Z Strawberry', 'Size': '750mL', 'VendorNumber': 90058, 'VendorName': 'ZORVINO VINEYARDS          ', 'PONumber': 13593, 'PODate': '2024-12-19', 'ReceivingDate': '2024-12-26', 'InvoiceDate': '2025-01-09', 'PayDate': '2025-02-06', 'PurchasePrice': 9.39, 'Quantity': 12, 'Dollars': 112.68, 'Classification': 2}, {'InventoryId': '55_DRY GULCH_22298', 'Store': 55, 'Brand': 22298, 'Description': 'Zorvino Vyds Sangiovese', 'Size': '750mL', 'VendorNumber': 90058, 'VendorName': 'ZORVINO VINEYARDS          ', 'PONumber': 13593, 'PODate': '2024-12-19', 'ReceivingDate': '2024-12-28', 'InvoiceDate': '2025-01-09', 'PayDate': '2025-02-06', 'PurchasePrice': 8.06, 'Quantity': 12, 'Dollars': 96.72, 'Classification': 2}]]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+Traceback (most recent call last):
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+    ~~~~~~~~~~~~~~~~~~^
+        query,
+        ^^^^^^
+    ...<3 lines>...
+        query_attrs=self.query_attrs,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+_mysql_connector.MySQLInterfaceError: Lost connection to MySQL server during query
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1933, in _exec_single_context
+    self.dialect.do_executemany(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor,
+        ^^^^^^^
+    ...<2 lines>...
+        context,
+        ^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 939, in do_executemany
+    cursor.executemany(statement, parameters)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\cursor_cext.py", line 473, in executemany
+    return self.execute(cast(str, stmt))
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\cursor_cext.py", line 353, in execute
+    self._connection.cmd_query(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._stmt_partition["mappable_stmt"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        raw_as_string=self._raw_as_string,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+        err.errno, msg=err.msg, sqlstate=err.sqlstate
+    ) from err
+mysql.connector.errors.OperationalError: 2013 (HY000): Lost connection to MySQL server during query
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\abhim\AppData\Local\Temp\ipykernel_15304\1851072168.py", line 24, in ingest_db
+    df.to_sql(name=table_name, con=conn, if_exists='replace', index=False)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\pandas\util\_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\pandas\core\generic.py", line 3087, in to_sql
+    return sql.to_sql(
+           ~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<8 lines>...
+        method=method,
+        ^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\pandas\io\sql.py", line 842, in to_sql
+    return pandas_sql.to_sql(
+           ~~~~~~~~~~~~~~~~~^
+        frame,
+        ^^^^^^
+    ...<9 lines>...
+        **engine_kwargs,
+        ^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\pandas\io\sql.py", line 2018, in to_sql
+    total_inserted = sql_engine.insert_records(
+        table=table,
+    ...<7 lines>...
+        **engine_kwargs,
+    )
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\pandas\io\sql.py", line 1567, in insert_records
+    raise err
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\pandas\io\sql.py", line 1558, in insert_records
+    return table.insert(chunksize=chunksize, method=method)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\pandas\io\sql.py", line 1119, in insert
+    num_inserted = exec_insert(conn, keys, chunk_iter)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\pandas\io\sql.py", line 1010, in _execute_insert
+    result = conn.execute(self.table.insert(), data)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1416, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\sql\elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1638, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1843, in _execute_context
+    return self._exec_single_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        dialect, context, statement, parameters
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1983, in _exec_single_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e, str_statement, effective_parameters, cursor, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2352, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1933, in _exec_single_context
+    self.dialect.do_executemany(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor,
+        ^^^^^^^
+    ...<2 lines>...
+        context,
+        ^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 939, in do_executemany
+    cursor.executemany(statement, parameters)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\cursor_cext.py", line 473, in executemany
+    return self.execute(cast(str, stmt))
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\cursor_cext.py", line 353, in execute
+    self._connection.cmd_query(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._stmt_partition["mappable_stmt"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        raw_as_string=self._raw_as_string,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+        err.errno, msg=err.msg, sqlstate=err.sqlstate
+    ) from err
+sqlalchemy.exc.OperationalError: (mysql.connector.errors.OperationalError) 2013 (HY000): Lost connection to MySQL server during query
+[SQL: INSERT INTO purchases (`InventoryId`, `Store`, `Brand`, `Description`, `Size`, `VendorNumber`, `VendorName`, `PONumber`, `PODate`, `ReceivingDate`, `InvoiceDate`, `PayDate`, `PurchasePrice`, `Quantity`, `Dollars`, `Classification`) VALUES (%(InventoryId)s, %(Store)s, %(Brand)s, %(Description)s, %(Size)s, %(VendorNumber)s, %(VendorName)s, %(PONumber)s, %(PODate)s, %(ReceivingDate)s, %(InvoiceDate)s, %(PayDate)s, %(PurchasePrice)s, %(Quantity)s, %(Dollars)s, %(Classification)s)]
+[parameters: [{'InventoryId': '69_MOUNTMEND_8412', 'Store': 69, 'Brand': 8412, 'Description': 'Tequila Ocho Plata Fresno', 'Size': '750mL', 'VendorNumber': 105, 'VendorName': 'ALTAMAR BRANDS LLC         ', 'PONumber': 8124, 'PODate': '2023-12-21', 'ReceivingDate': '2024-01-02', 'InvoiceDate': '2024-01-04', 'PayDate': '2024-02-16', 'PurchasePrice': 35.71, 'Quantity': 6, 'Dollars': 214.26, 'Classification': 1}, {'InventoryId': '30_CULCHETH_5255', 'Store': 30, 'Brand': 5255, 'Description': 'TGI Fridays Ultimte Mudslide', 'Size': '1.75L', 'VendorNumber': 4466, 'VendorName': 'AMERICAN VINTAGE BEVERAGE  ', 'PONumber': 8137, 'PODate': '2023-12-22', 'ReceivingDate': '2024-01-01', 'InvoiceDate': '2024-01-07', 'PayDate': '2024-02-21', 'PurchasePrice': 9.35, 'Quantity': 4, 'Dollars': 37.4, 'Classification': 1}, {'InventoryId': '34_PITMERDEN_5215', 'Store': 34, 'Brand': 5215, 'Description': 'TGI Fridays Long Island Iced', 'Size': '1.75L', 'VendorNumber': 4466, 'VendorName': 'AMERICAN VINTAGE BEVERAGE  ', 'PONumber': 8137, 'PODate': '2023-12-22', 'ReceivingDate': '2024-01-02', 'InvoiceDate': '2024-01-07', 'PayDate': '2024-02-21', 'PurchasePrice': 9.41, 'Quantity': 5, 'Dollars': 47.05, 'Classification': 1}, {'InventoryId': '1_HARDERSFIELD_5255', 'Store': 1, 'Brand': 5255, 'Description': 'TGI Fridays Ultimte Mudslide', 'Size': '1.75L', 'VendorNumber': 4466, 'VendorName': 'AMERICAN VINTAGE BEVERAGE  ', 'PONumber': 8137, 'PODate': '2023-12-22', 'ReceivingDate': '2024-01-01', 'InvoiceDate': '2024-01-07', 'PayDate': '2024-02-21', 'PurchasePrice': 9.35, 'Quantity': 6, 'Dollars': 56.1, 'Classification': 1}, {'InventoryId': '76_DONCASTER_2034', 'Store': 76, 'Brand': 2034, 'Description': 'Glendalough Double Barrel', 'Size': '750mL', 'VendorNumber': 388, 'VendorName': 'ATLANTIC IMPORTING COMPANY ', 'PONumber': 8169, 'PODate': '2023-12-24', 'ReceivingDate': '2024-01-02', 'InvoiceDate': '2024-01-09', 'PayDate': '2024-02-16', 'PurchasePrice': 21.32, 'Quantity': 5, 'Dollars': 106.6, 'Classification': 1}, {'InventoryId': '5_SUTTON_3348', 'Store': 5, 'Brand': 3348, 'Description': 'Bombay Sapphire Gin', 'Size': '1.75L', 'VendorNumber': 480, 'VendorName': 'BACARDI USA INC            ', 'PONumber': 8106, 'PODate': '2023-12-20', 'ReceivingDate': '2024-01-02', 'InvoiceDate': '2024-01-12', 'PayDate': '2024-02-05', 'PurchasePrice': 22.38, 'Quantity': 6, 'Dollars': 134.28, 'Classification': 1}, {'InventoryId': '1_HARDERSFIELD_8358', 'Store': 1, 'Brand': 8358, 'Description': 'Bacardi 151 Proof', 'Size': '750mL', 'VendorNumber': 480, 'VendorName': 'BACARDI USA INC            ', 'PONumber': 8106, 'PODate': '2023-12-20', 'ReceivingDate': '2024-01-01', 'InvoiceDate': '2024-01-12', 'PayDate': '2024-02-05', 'PurchasePrice': 14.49, 'Quantity': 12, 'Dollars': 173.88, 'Classification': 1}, {'InventoryId': '30_CULCHETH_4903', 'Store': 30, 'Brand': 4903, 'Description': 'Bacardi Superior Rum', 'Size': '200mL', 'VendorNumber': 480, 'VendorName': 'BACARDI USA INC            ', 'PONumber': 8106, 'PODate': '2023-12-20', 'ReceivingDate': '2024-01-01', 'InvoiceDate': '2024-01-12', 'PayDate': '2024-02-05', 'PurchasePrice': 2.87, 'Quantity': 48, 'Dollars': 137.76, 'Classification': 1}  ... displaying 10 of 2372474 total bound parameter sets ...  {'InventoryId': '69_MOUNTMEND_19557', 'Store': 69, 'Brand': 19557, 'Description': 'Zorvino Fragole Z Strawberry', 'Size': '750mL', 'VendorNumber': 90058, 'VendorName': 'ZORVINO VINEYARDS          ', 'PONumber': 13593, 'PODate': '2024-12-19', 'ReceivingDate': '2024-12-26', 'InvoiceDate': '2025-01-09', 'PayDate': '2025-02-06', 'PurchasePrice': 9.39, 'Quantity': 12, 'Dollars': 112.68, 'Classification': 2}, {'InventoryId': '55_DRY GULCH_22298', 'Store': 55, 'Brand': 22298, 'Description': 'Zorvino Vyds Sangiovese', 'Size': '750mL', 'VendorNumber': 90058, 'VendorName': 'ZORVINO VINEYARDS          ', 'PONumber': 13593, 'PODate': '2024-12-19', 'ReceivingDate': '2024-12-28', 'InvoiceDate': '2025-01-09', 'PayDate': '2025-02-06', 'PurchasePrice': 8.06, 'Quantity': 12, 'Dollars': 96.72, 'Classification': 2}]]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-02-24 01:46:06,021 - INFO - Processing file: purchase_prices.csv with 12261 rows
+2026-02-24 01:46:17,910 - INFO - Successfully ingested 12261 rows into purchase_prices
+2026-02-24 01:46:44,028 - INFO - Processing file: sales.csv with 12825363 rows
+2026-02-24 01:59:03,757 - INFO - Processing file: begin_inventory.csv with 206529 rows
+2026-02-24 01:59:11,684 - INFO - Successfully ingested 206529 rows into begin_inventory
+2026-02-24 01:59:11,957 - INFO - Processing file: end_inventory.csv with 224489 rows
+2026-02-24 01:59:22,151 - INFO - Successfully ingested 224489 rows into end_inventory
+2026-02-24 01:59:27,179 - INFO - Processing file: purchases.csv with 2372474 rows
+2026-02-24 02:01:10,199 - ERROR - Failed to ingest purchases: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+Traceback (most recent call last):
+  File "C:\Users\abhim\AppData\Local\Temp\ipykernel_14992\2444061350.py", line 22, in ingest_db
+    df.to_sql(name=table_name, con=engine, if_exists='replace', index=False)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\pandas\util\_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\pandas\core\generic.py", line 3087, in to_sql
+    return sql.to_sql(
+           ~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<8 lines>...
+        method=method,
+        ^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\pandas\io\sql.py", line 841, in to_sql
+    with pandasSQL_builder(con, schema=schema, need_transaction=True) as pandas_sql:
+         ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\pandas\io\sql.py", line 1645, in __exit__
+    self.exit_stack.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\contextlib.py", line 627, in close
+    self.__exit__(None, None, None)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\contextlib.py", line 619, in __exit__
+    raise exc
+  File "c:\Users\abhim\anaconda3\Lib\contextlib.py", line 604, in __exit__
+    if cb(*exc_details):
+       ~~^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\util.py", line 147, in __exit__
+    with util.safe_reraise():
+         ~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\util.py", line 145, in __exit__
+    self.commit()
+    ~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2629, in commit
+    self._do_commit()
+    ~~~~~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2734, in _do_commit
+    self._connection_commit_impl()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2705, in _connection_commit_impl
+    self.connection._commit_impl()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1144, in _commit_impl
+    self._handle_dbapi_exception(e, None, None, None, None)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2355, in _handle_dbapi_exception
+    raise exc_info[1].with_traceback(exc_info[2])
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1142, in _commit_impl
+    self.engine.dialect.do_commit(self.connection)
+                                  ^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 584, in connection
+    return self._revalidate_connection()
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 676, in _revalidate_connection
+    self._invalid_transaction()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 666, in _invalid_transaction
+    raise exc.PendingRollbackError(
+    ...<4 lines>...
+    )
+sqlalchemy.exc.PendingRollbackError: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+2026-02-24 02:01:10,447 - INFO - Processing file: purchase_prices.csv with 12261 rows
+2026-02-24 02:01:19,726 - INFO - Successfully ingested 12261 rows into purchase_prices
+2026-02-24 02:01:42,726 - INFO - Processing file: sales.csv with 12825363 rows2026-02-24 20:08:56,682 - INFO - Processing file: begin_inventory.csv with 206529 rows
+2026-02-24 20:09:05,187 - INFO - Successfully ingested 206529 rows into begin_inventory
+2026-02-24 20:09:05,471 - INFO - Processing file: end_inventory.csv with 224489 rows
+2026-02-24 20:09:13,738 - INFO - Successfully ingested 224489 rows into end_inventory
+2026-02-24 20:09:18,510 - INFO - Processing file: purchases.csv with 2372474 rows
+2026-02-24 20:10:52,388 - ERROR - Failed to ingest purchases: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+Traceback (most recent call last):
+  File "C:\Users\abhim\AppData\Local\Temp\ipykernel_13656\3525024046.py", line 22, in ingest_db
+    df.to_sql(name=table_name, con=engine, if_exists='replace', index=False)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\pandas\util\_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\pandas\core\generic.py", line 3087, in to_sql
+    return sql.to_sql(
+           ~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<8 lines>...
+        method=method,
+        ^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\pandas\io\sql.py", line 841, in to_sql
+    with pandasSQL_builder(con, schema=schema, need_transaction=True) as pandas_sql:
+         ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\pandas\io\sql.py", line 1645, in __exit__
+    self.exit_stack.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\contextlib.py", line 627, in close
+    self.__exit__(None, None, None)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\contextlib.py", line 619, in __exit__
+    raise exc
+  File "c:\Users\abhim\anaconda3\Lib\contextlib.py", line 604, in __exit__
+    if cb(*exc_details):
+       ~~^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\util.py", line 147, in __exit__
+    with util.safe_reraise():
+         ~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\util.py", line 145, in __exit__
+    self.commit()
+    ~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2629, in commit
+    self._do_commit()
+    ~~~~~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2734, in _do_commit
+    self._connection_commit_impl()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2705, in _connection_commit_impl
+    self.connection._commit_impl()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1144, in _commit_impl
+    self._handle_dbapi_exception(e, None, None, None, None)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2355, in _handle_dbapi_exception
+    raise exc_info[1].with_traceback(exc_info[2])
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1142, in _commit_impl
+    self.engine.dialect.do_commit(self.connection)
+                                  ^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 584, in connection
+    return self._revalidate_connection()
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 676, in _revalidate_connection
+    self._invalid_transaction()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 666, in _invalid_transaction
+    raise exc.PendingRollbackError(
+    ...<4 lines>...
+    )
+sqlalchemy.exc.PendingRollbackError: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+2026-02-24 20:10:52,454 - ERROR - Failed to process purchases.csv: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+Traceback (most recent call last):
+  File "C:\Users\abhim\AppData\Local\Temp\ipykernel_13656\3525024046.py", line 47, in load_data
+    ingest_db(df, filename[:-4], engine)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhim\AppData\Local\Temp\ipykernel_13656\3525024046.py", line 22, in ingest_db
+    df.to_sql(name=table_name, con=engine, if_exists='replace', index=False)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\pandas\util\_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\pandas\core\generic.py", line 3087, in to_sql
+    return sql.to_sql(
+           ~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<8 lines>...
+        method=method,
+        ^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\pandas\io\sql.py", line 841, in to_sql
+    with pandasSQL_builder(con, schema=schema, need_transaction=True) as pandas_sql:
+         ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\pandas\io\sql.py", line 1645, in __exit__
+    self.exit_stack.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\contextlib.py", line 627, in close
+    self.__exit__(None, None, None)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\contextlib.py", line 619, in __exit__
+    raise exc
+  File "c:\Users\abhim\anaconda3\Lib\contextlib.py", line 604, in __exit__
+    if cb(*exc_details):
+       ~~^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\util.py", line 147, in __exit__
+    with util.safe_reraise():
+         ~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\util.py", line 145, in __exit__
+    self.commit()
+    ~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2629, in commit
+    self._do_commit()
+    ~~~~~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2734, in _do_commit
+    self._connection_commit_impl()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2705, in _connection_commit_impl
+    self.connection._commit_impl()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1144, in _commit_impl
+    self._handle_dbapi_exception(e, None, None, None, None)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2355, in _handle_dbapi_exception
+    raise exc_info[1].with_traceback(exc_info[2])
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1142, in _commit_impl
+    self.engine.dialect.do_commit(self.connection)
+                                  ^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 584, in connection
+    return self._revalidate_connection()
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 676, in _revalidate_connection
+    self._invalid_transaction()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 666, in _invalid_transaction
+    raise exc.PendingRollbackError(
+    ...<4 lines>...
+    )
+sqlalchemy.exc.PendingRollbackError: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+2026-02-24 20:10:52,658 - INFO - Processing file: purchase_prices.csv with 12261 rows
+2026-02-24 20:10:58,619 - INFO - Successfully ingested 12261 rows into purchase_prices
+2026-02-24 20:11:16,527 - INFO - Processing file: sales.csv with 12825363 rows
+2026-02-24 20:24:34,344 - INFO - Processing 'begin_inventory.csv' | Rows: 206529
+2026-02-24 20:25:13,703 - INFO - Inserted 206529 rows into table 'begin_inventory'
+2026-02-24 20:25:14,059 - INFO - Processing 'end_inventory.csv' | Rows: 224489
+2026-02-24 20:25:53,503 - INFO - Inserted 224489 rows into table 'end_inventory'
+2026-02-24 20:25:57,861 - INFO - Processing 'purchases.csv' | Rows: 2372474
+2026-02-24 20:36:25,206 - INFO - Inserted 2372474 rows into table 'purchases'
+2026-02-24 20:36:25,408 - INFO - Processing 'purchase_prices.csv' | Rows: 12261
+2026-02-24 20:36:27,562 - INFO - Inserted 12261 rows into table 'purchase_prices'
+2026-02-24 20:36:49,225 - INFO - Processing 'sales.csv' | Rows: 12825363
+2026-02-24 22:42:00,135 - INFO - Processing file: begin_inventory.csv
+2026-02-24 22:42:00,815 - INFO - Table 'begin_inventory' schema created
+2026-02-24 22:42:00,820 - ERROR - Failed processing begin_inventory.csv: (mysql.connector.errors.DatabaseError) 2068 (HY000): LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+[SQL: 
+    LOAD DATA LOCAL INFILE %(file)s
+    INTO TABLE begin_inventory
+    FIELDS TERMINATED BY ','
+    ENCLOSED BY '"'
+    LINES TERMINATED BY '\n'
+    IGNORE 1 LINES
+    ]
+[parameters: {'file': 'c:\\Users\\abhim\\OneDrive\\Documents\\Vendor Analytics Project\\data\\begin_inventory.csv'}]
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+Traceback (most recent call last):
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+    ~~~~~~~~~~~~~~~~~~^
+        query,
+        ^^^^^^
+    ...<3 lines>...
+        query_attrs=self.query_attrs,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+_mysql_connector.MySQLInterfaceError: LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 942, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\cursor_cext.py", line 353, in execute
+    self._connection.cmd_query(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._stmt_partition["mappable_stmt"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        raw_as_string=self._raw_as_string,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+        err.errno, msg=err.msg, sqlstate=err.sqlstate
+    ) from err
+mysql.connector.errors.DatabaseError: 2068 (HY000): LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\abhim\AppData\Local\Temp\ipykernel_13420\106217703.py", line 105, in load_data
+    bulk_load_csv(file_path, table_name, engine)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhim\AppData\Local\Temp\ipykernel_13420\106217703.py", line 75, in bulk_load_csv
+    conn.execute(
+    ~~~~~~~~~~~~^
+        text(load_sql),
+        ^^^^^^^^^^^^^^^
+        {"file": csv_path}
+        ^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1416, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\sql\elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1638, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1843, in _execute_context
+    return self._exec_single_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        dialect, context, statement, parameters
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1983, in _exec_single_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e, str_statement, effective_parameters, cursor, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2352, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 942, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\cursor_cext.py", line 353, in execute
+    self._connection.cmd_query(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._stmt_partition["mappable_stmt"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        raw_as_string=self._raw_as_string,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+        err.errno, msg=err.msg, sqlstate=err.sqlstate
+    ) from err
+sqlalchemy.exc.DatabaseError: (mysql.connector.errors.DatabaseError) 2068 (HY000): LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+[SQL: 
+    LOAD DATA LOCAL INFILE %(file)s
+    INTO TABLE begin_inventory
+    FIELDS TERMINATED BY ','
+    ENCLOSED BY '"'
+    LINES TERMINATED BY '\n'
+    IGNORE 1 LINES
+    ]
+[parameters: {'file': 'c:\\Users\\abhim\\OneDrive\\Documents\\Vendor Analytics Project\\data\\begin_inventory.csv'}]
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-02-24 22:42:00,838 - INFO - Processing file: end_inventory.csv
+2026-02-24 22:42:00,943 - INFO - Table 'end_inventory' schema created
+2026-02-24 22:42:00,945 - ERROR - Failed processing end_inventory.csv: (mysql.connector.errors.DatabaseError) 2068 (HY000): LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+[SQL: 
+    LOAD DATA LOCAL INFILE %(file)s
+    INTO TABLE end_inventory
+    FIELDS TERMINATED BY ','
+    ENCLOSED BY '"'
+    LINES TERMINATED BY '\n'
+    IGNORE 1 LINES
+    ]
+[parameters: {'file': 'c:\\Users\\abhim\\OneDrive\\Documents\\Vendor Analytics Project\\data\\end_inventory.csv'}]
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+Traceback (most recent call last):
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+    ~~~~~~~~~~~~~~~~~~^
+        query,
+        ^^^^^^
+    ...<3 lines>...
+        query_attrs=self.query_attrs,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+_mysql_connector.MySQLInterfaceError: LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 942, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\cursor_cext.py", line 353, in execute
+    self._connection.cmd_query(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._stmt_partition["mappable_stmt"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        raw_as_string=self._raw_as_string,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+        err.errno, msg=err.msg, sqlstate=err.sqlstate
+    ) from err
+mysql.connector.errors.DatabaseError: 2068 (HY000): LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\abhim\AppData\Local\Temp\ipykernel_13420\106217703.py", line 105, in load_data
+    bulk_load_csv(file_path, table_name, engine)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhim\AppData\Local\Temp\ipykernel_13420\106217703.py", line 75, in bulk_load_csv
+    conn.execute(
+    ~~~~~~~~~~~~^
+        text(load_sql),
+        ^^^^^^^^^^^^^^^
+        {"file": csv_path}
+        ^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1416, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\sql\elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1638, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1843, in _execute_context
+    return self._exec_single_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        dialect, context, statement, parameters
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1983, in _exec_single_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e, str_statement, effective_parameters, cursor, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2352, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 942, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\cursor_cext.py", line 353, in execute
+    self._connection.cmd_query(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._stmt_partition["mappable_stmt"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        raw_as_string=self._raw_as_string,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+        err.errno, msg=err.msg, sqlstate=err.sqlstate
+    ) from err
+sqlalchemy.exc.DatabaseError: (mysql.connector.errors.DatabaseError) 2068 (HY000): LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+[SQL: 
+    LOAD DATA LOCAL INFILE %(file)s
+    INTO TABLE end_inventory
+    FIELDS TERMINATED BY ','
+    ENCLOSED BY '"'
+    LINES TERMINATED BY '\n'
+    IGNORE 1 LINES
+    ]
+[parameters: {'file': 'c:\\Users\\abhim\\OneDrive\\Documents\\Vendor Analytics Project\\data\\end_inventory.csv'}]
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-02-24 22:42:00,949 - INFO - Processing file: purchases.csv
+2026-02-24 22:42:01,077 - INFO - Table 'purchases' schema created
+2026-02-24 22:42:01,080 - ERROR - Failed processing purchases.csv: (mysql.connector.errors.DatabaseError) 2068 (HY000): LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+[SQL: 
+    LOAD DATA LOCAL INFILE %(file)s
+    INTO TABLE purchases
+    FIELDS TERMINATED BY ','
+    ENCLOSED BY '"'
+    LINES TERMINATED BY '\n'
+    IGNORE 1 LINES
+    ]
+[parameters: {'file': 'c:\\Users\\abhim\\OneDrive\\Documents\\Vendor Analytics Project\\data\\purchases.csv'}]
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+Traceback (most recent call last):
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+    ~~~~~~~~~~~~~~~~~~^
+        query,
+        ^^^^^^
+    ...<3 lines>...
+        query_attrs=self.query_attrs,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+_mysql_connector.MySQLInterfaceError: LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 942, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\cursor_cext.py", line 353, in execute
+    self._connection.cmd_query(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._stmt_partition["mappable_stmt"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        raw_as_string=self._raw_as_string,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+        err.errno, msg=err.msg, sqlstate=err.sqlstate
+    ) from err
+mysql.connector.errors.DatabaseError: 2068 (HY000): LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\abhim\AppData\Local\Temp\ipykernel_13420\106217703.py", line 105, in load_data
+    bulk_load_csv(file_path, table_name, engine)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhim\AppData\Local\Temp\ipykernel_13420\106217703.py", line 75, in bulk_load_csv
+    conn.execute(
+    ~~~~~~~~~~~~^
+        text(load_sql),
+        ^^^^^^^^^^^^^^^
+        {"file": csv_path}
+        ^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1416, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\sql\elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1638, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1843, in _execute_context
+    return self._exec_single_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        dialect, context, statement, parameters
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1983, in _exec_single_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e, str_statement, effective_parameters, cursor, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2352, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 942, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\cursor_cext.py", line 353, in execute
+    self._connection.cmd_query(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._stmt_partition["mappable_stmt"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        raw_as_string=self._raw_as_string,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+        err.errno, msg=err.msg, sqlstate=err.sqlstate
+    ) from err
+sqlalchemy.exc.DatabaseError: (mysql.connector.errors.DatabaseError) 2068 (HY000): LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+[SQL: 
+    LOAD DATA LOCAL INFILE %(file)s
+    INTO TABLE purchases
+    FIELDS TERMINATED BY ','
+    ENCLOSED BY '"'
+    LINES TERMINATED BY '\n'
+    IGNORE 1 LINES
+    ]
+[parameters: {'file': 'c:\\Users\\abhim\\OneDrive\\Documents\\Vendor Analytics Project\\data\\purchases.csv'}]
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-02-24 22:42:01,084 - INFO - Processing file: purchase_prices.csv
+2026-02-24 22:42:01,176 - INFO - Table 'purchase_prices' schema created
+2026-02-24 22:42:01,178 - ERROR - Failed processing purchase_prices.csv: (mysql.connector.errors.DatabaseError) 2068 (HY000): LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+[SQL: 
+    LOAD DATA LOCAL INFILE %(file)s
+    INTO TABLE purchase_prices
+    FIELDS TERMINATED BY ','
+    ENCLOSED BY '"'
+    LINES TERMINATED BY '\n'
+    IGNORE 1 LINES
+    ]
+[parameters: {'file': 'c:\\Users\\abhim\\OneDrive\\Documents\\Vendor Analytics Project\\data\\purchase_prices.csv'}]
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+Traceback (most recent call last):
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+    ~~~~~~~~~~~~~~~~~~^
+        query,
+        ^^^^^^
+    ...<3 lines>...
+        query_attrs=self.query_attrs,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+_mysql_connector.MySQLInterfaceError: LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 942, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\cursor_cext.py", line 353, in execute
+    self._connection.cmd_query(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._stmt_partition["mappable_stmt"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        raw_as_string=self._raw_as_string,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+        err.errno, msg=err.msg, sqlstate=err.sqlstate
+    ) from err
+mysql.connector.errors.DatabaseError: 2068 (HY000): LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\abhim\AppData\Local\Temp\ipykernel_13420\106217703.py", line 105, in load_data
+    bulk_load_csv(file_path, table_name, engine)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhim\AppData\Local\Temp\ipykernel_13420\106217703.py", line 75, in bulk_load_csv
+    conn.execute(
+    ~~~~~~~~~~~~^
+        text(load_sql),
+        ^^^^^^^^^^^^^^^
+        {"file": csv_path}
+        ^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1416, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\sql\elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1638, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1843, in _execute_context
+    return self._exec_single_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        dialect, context, statement, parameters
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1983, in _exec_single_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e, str_statement, effective_parameters, cursor, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2352, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 942, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\cursor_cext.py", line 353, in execute
+    self._connection.cmd_query(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._stmt_partition["mappable_stmt"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        raw_as_string=self._raw_as_string,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+        err.errno, msg=err.msg, sqlstate=err.sqlstate
+    ) from err
+sqlalchemy.exc.DatabaseError: (mysql.connector.errors.DatabaseError) 2068 (HY000): LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+[SQL: 
+    LOAD DATA LOCAL INFILE %(file)s
+    INTO TABLE purchase_prices
+    FIELDS TERMINATED BY ','
+    ENCLOSED BY '"'
+    LINES TERMINATED BY '\n'
+    IGNORE 1 LINES
+    ]
+[parameters: {'file': 'c:\\Users\\abhim\\OneDrive\\Documents\\Vendor Analytics Project\\data\\purchase_prices.csv'}]
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-02-24 22:42:01,181 - INFO - Processing file: sales.csv
+2026-02-24 22:42:01,301 - INFO - Table 'sales' schema created
+2026-02-24 22:42:01,303 - ERROR - Failed processing sales.csv: (mysql.connector.errors.DatabaseError) 2068 (HY000): LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+[SQL: 
+    LOAD DATA LOCAL INFILE %(file)s
+    INTO TABLE sales
+    FIELDS TERMINATED BY ','
+    ENCLOSED BY '"'
+    LINES TERMINATED BY '\n'
+    IGNORE 1 LINES
+    ]
+[parameters: {'file': 'c:\\Users\\abhim\\OneDrive\\Documents\\Vendor Analytics Project\\data\\sales.csv'}]
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+Traceback (most recent call last):
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+    ~~~~~~~~~~~~~~~~~~^
+        query,
+        ^^^^^^
+    ...<3 lines>...
+        query_attrs=self.query_attrs,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+_mysql_connector.MySQLInterfaceError: LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 942, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\cursor_cext.py", line 353, in execute
+    self._connection.cmd_query(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._stmt_partition["mappable_stmt"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        raw_as_string=self._raw_as_string,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+        err.errno, msg=err.msg, sqlstate=err.sqlstate
+    ) from err
+mysql.connector.errors.DatabaseError: 2068 (HY000): LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\abhim\AppData\Local\Temp\ipykernel_13420\106217703.py", line 105, in load_data
+    bulk_load_csv(file_path, table_name, engine)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhim\AppData\Local\Temp\ipykernel_13420\106217703.py", line 75, in bulk_load_csv
+    conn.execute(
+    ~~~~~~~~~~~~^
+        text(load_sql),
+        ^^^^^^^^^^^^^^^
+        {"file": csv_path}
+        ^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1416, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\sql\elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1638, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1843, in _execute_context
+    return self._exec_single_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        dialect, context, statement, parameters
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1983, in _exec_single_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e, str_statement, effective_parameters, cursor, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2352, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 942, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\cursor_cext.py", line 353, in execute
+    self._connection.cmd_query(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._stmt_partition["mappable_stmt"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        raw_as_string=self._raw_as_string,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+        err.errno, msg=err.msg, sqlstate=err.sqlstate
+    ) from err
+sqlalchemy.exc.DatabaseError: (mysql.connector.errors.DatabaseError) 2068 (HY000): LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+[SQL: 
+    LOAD DATA LOCAL INFILE %(file)s
+    INTO TABLE sales
+    FIELDS TERMINATED BY ','
+    ENCLOSED BY '"'
+    LINES TERMINATED BY '\n'
+    IGNORE 1 LINES
+    ]
+[parameters: {'file': 'c:\\Users\\abhim\\OneDrive\\Documents\\Vendor Analytics Project\\data\\sales.csv'}]
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-02-24 22:42:01,309 - INFO - Processing file: vendor_invoice.csv
+2026-02-24 22:42:01,437 - INFO - Table 'vendor_invoice' schema created
+2026-02-24 22:42:01,440 - ERROR - Failed processing vendor_invoice.csv: (mysql.connector.errors.DatabaseError) 2068 (HY000): LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+[SQL: 
+    LOAD DATA LOCAL INFILE %(file)s
+    INTO TABLE vendor_invoice
+    FIELDS TERMINATED BY ','
+    ENCLOSED BY '"'
+    LINES TERMINATED BY '\n'
+    IGNORE 1 LINES
+    ]
+[parameters: {'file': 'c:\\Users\\abhim\\OneDrive\\Documents\\Vendor Analytics Project\\data\\vendor_invoice.csv'}]
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+Traceback (most recent call last):
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+    ~~~~~~~~~~~~~~~~~~^
+        query,
+        ^^^^^^
+    ...<3 lines>...
+        query_attrs=self.query_attrs,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+_mysql_connector.MySQLInterfaceError: LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 942, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\cursor_cext.py", line 353, in execute
+    self._connection.cmd_query(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._stmt_partition["mappable_stmt"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        raw_as_string=self._raw_as_string,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+        err.errno, msg=err.msg, sqlstate=err.sqlstate
+    ) from err
+mysql.connector.errors.DatabaseError: 2068 (HY000): LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\abhim\AppData\Local\Temp\ipykernel_13420\106217703.py", line 105, in load_data
+    bulk_load_csv(file_path, table_name, engine)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhim\AppData\Local\Temp\ipykernel_13420\106217703.py", line 75, in bulk_load_csv
+    conn.execute(
+    ~~~~~~~~~~~~^
+        text(load_sql),
+        ^^^^^^^^^^^^^^^
+        {"file": csv_path}
+        ^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1416, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\sql\elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1638, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1843, in _execute_context
+    return self._exec_single_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        dialect, context, statement, parameters
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1983, in _exec_single_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e, str_statement, effective_parameters, cursor, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 2352, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\sqlalchemy\engine\default.py", line 942, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\cursor_cext.py", line 353, in execute
+    self._connection.cmd_query(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._stmt_partition["mappable_stmt"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        raw_as_string=self._raw_as_string,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "c:\Users\abhim\anaconda3\Lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+        err.errno, msg=err.msg, sqlstate=err.sqlstate
+    ) from err
+sqlalchemy.exc.DatabaseError: (mysql.connector.errors.DatabaseError) 2068 (HY000): LOAD DATA LOCAL INFILE file request rejected due to restrictions on access.
+[SQL: 
+    LOAD DATA LOCAL INFILE %(file)s
+    INTO TABLE vendor_invoice
+    FIELDS TERMINATED BY ','
+    ENCLOSED BY '"'
+    LINES TERMINATED BY '\n'
+    IGNORE 1 LINES
+    ]
+[parameters: {'file': 'c:\\Users\\abhim\\OneDrive\\Documents\\Vendor Analytics Project\\data\\vendor_invoice.csv'}]
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-02-24 22:42:01,445 - INFO - INGESTION COMPLETE | Time: 0.02 min | Success: 0 | Failed: 6
+2026-02-24 23:18:42,034 - INFO - Processing file: begin_inventory.csv
+2026-02-24 23:18:42,267 - INFO - Table 'begin_inventory' schema created
+2026-02-24 23:18:45,015 - INFO - Bulk loaded data into 'begin_inventory'
+2026-02-24 23:18:45,015 - INFO - Processing file: end_inventory.csv
+2026-02-24 23:18:45,184 - INFO - Table 'end_inventory' schema created
+2026-02-24 23:18:48,166 - INFO - Bulk loaded data into 'end_inventory'
+2026-02-24 23:18:48,166 - INFO - Processing file: purchases.csv
+2026-02-24 23:18:48,358 - INFO - Table 'purchases' schema created
+2026-02-24 23:19:31,877 - INFO - Bulk loaded data into 'purchases'
+2026-02-24 23:19:31,878 - INFO - Processing file: purchase_prices.csv
+2026-02-24 23:19:32,100 - INFO - Table 'purchase_prices' schema created
+2026-02-24 23:19:32,326 - INFO - Bulk loaded data into 'purchase_prices'
+2026-02-24 23:19:32,326 - INFO - Processing file: sales.csv
+2026-02-24 23:19:32,550 - INFO - Table 'sales' schema created
+2026-02-24 23:23:21,359 - INFO - Bulk loaded data into 'sales'
+2026-02-24 23:23:21,359 - INFO - Processing file: vendor_invoice.csv
+2026-02-24 23:23:21,550 - INFO - Table 'vendor_invoice' schema created
+2026-02-24 23:23:21,684 - INFO - Bulk loaded data into 'vendor_invoice'
+2026-02-24 23:23:21,684 - INFO - INGESTION COMPLETE | Time: 4.66 min | Success: 6 | Failed: 0
+2026-02-24 23:33:10,275 - INFO - Data ingested successfully into table 'begin_inventory'.
+2026-02-24 23:33:14,375 - INFO - Data ingested successfully into table 'end_inventory'.
+2026-02-24 23:34:39,362 - INFO - Data ingested successfully into table 'purchases'.
+2026-02-24 23:34:41,317 - INFO - Data ingested successfully into table 'purchase_prices'.
+2026-02-24 23:51:23,827 - INFO - Data ingested successfully into table 'sales'.
+2026-02-24 23:51:27,277 - INFO - Data ingested successfully into table 'vendor_invoice'.
+2026-02-24 23:51:27,277 - INFO - Data loading completed in 1102.31 seconds.
+2026-02-25 01:19:53,495 - INFO - Database connection created successfully.
+2026-02-25 01:20:48,148 - INFO - Vendor sales summary created successfully.
+2026-02-25 01:20:48,168 - INFO - Data cleaned successfully.
+2026-02-25 01:20:48,241 - INFO - Vendor sales summary stored in the database successfully.
+2026-02-25 01:20:48,243 - INFO - Database connection closed successfully.
+2026-02-25 01:21:46,691 - INFO - Database connection created successfully.
+2026-02-25 01:22:32,467 - INFO - Vendor sales summary created successfully.
+2026-02-25 01:22:32,478 - INFO - Data cleaned successfully.
+2026-02-25 01:22:32,561 - INFO - Vendor sales summary stored in the database successfully.
+2026-02-25 01:22:32,562 - INFO - Database connection closed successfully.
+2026-02-25 01:25:21,933 - INFO - Database connection created successfully.
+2026-02-25 01:26:06,695 - INFO - Vendor sales summary created successfully.
+2026-02-25 01:26:06,707 - INFO - Data cleaned successfully.
+2026-02-25 01:26:06,773 - INFO - Vendor sales summary stored in the database successfully.
+2026-02-25 01:26:06,774 - INFO - Database connection closed successfully.
+2026-02-25 01:27:12,622 - INFO - Database connection created successfully.
+2026-02-25 01:28:03,893 - INFO - Vendor sales summary created successfully.
+2026-02-25 01:28:03,927 - INFO - Data cleaned successfully.
+2026-02-25 01:28:04,076 - INFO - Vendor sales summary stored in the database successfully.
+2026-02-25 01:28:04,079 - INFO - Database connection closed successfully.
